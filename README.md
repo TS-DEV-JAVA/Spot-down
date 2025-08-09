@@ -27,4 +27,4 @@
 
 
 ### Spot-down, how it works
-A Spotify Downloader, free and open src !, well it like SpotDL
+Spot-down takes a spotify URL or search, makes it a youtube music link, then downloads it with yt-dlp, (streaming is still beta, it useses youtube, but the download still uses youtube music)
