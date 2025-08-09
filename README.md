@@ -61,8 +61,8 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 
 ##  Socials:
 
-[![discord](https://img.shields.io/badge/join-discord-5865F2?style=plastic&logo=discord&logoColor=white)
+[![discord](https://img.shields.io/badge/join-discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.gg/idk)
 
-[![yt](https://img.shields.io/badge/Youtube-Channel-ED1A1A?style=plastic&logo=youtube&logoColor=white)
+[![yt](https://img.shields.io/badge/Youtube-Channel-ED1A1A?style=plastic&logo=youtube&logoColor=white)](https://youtube.com/)
 
 ## Website
