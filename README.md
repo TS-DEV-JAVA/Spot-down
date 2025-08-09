@@ -22,6 +22,9 @@
 [![Top Language](https://img.shields.io/github/languages/top/ts-dev-java/Spot-down?style=plastic&color=informational&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down)
 [![Stars Today](https://img.shields.io/github/stars/ts-dev-java/Spot-down?style=plastic&color=brightgreen&logo=github&logoColor=white&label=stars%20today)](https://github.com/ts-dev-java/Spot-down/stargazers)
 
+## Demo
+![demo-of-tool](https://files.catbox.moe/j4ofsx.png)
+
 
 ### Spot-down, how it works
 A Spotify Downloader, free and open src !, well it like SpotDL
