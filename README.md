@@ -24,6 +24,9 @@
 
 ## Demo:
 ![demo-of-tool](https://files.catbox.moe/j4ofsx.png)
+![downloading-a-track](https://files.catbox.moe/i358ac.png)
+![track-is-their](https://files.catbox.moe/0h52j2.png)
+![playing-the-track](https://files.catbox.moe/9vygid.png)
 
 
 ### Spot-down, how it works
