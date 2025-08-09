@@ -43,12 +43,14 @@ Spot-down takes a spotify URL or search, makes it a youtube music link, then dow
 - Built in audio compressor (optional to use)
 
 ## Downloads
-Recomended:
+#### Recomended:
+
 [![download](https://img.shields.io/badge/Download%20Latest%20Version%20HERE-1BCC29?style=plastic)](https://example.com)
 
 [![download-stable](https://img.shields.io/badge/Download%20Most%20Stable%20Version%20HERE-2DD6C3?style=plastic)](https://example.com)
 
-#### Other 
+#### Other:
+
 [![other-releases](https://img.shields.io/badge/Other%20Releases-391791?style=plastic)](https://example.com)
 
 [![nightly-builds](https://img.shields.io/badge/Nightly%20Builds-FFD605?style=plastic)](https://example.com)
