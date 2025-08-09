@@ -49,9 +49,9 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 
 #### Recomended:
 
-[![download](https://img.shields.io/badge/Download%20Latest%20Version%20HERE-1BCC29?style=plastic)](https://example.com)
+[![download](https://img.shields.io/badge/Download%20Latest%20Version%20HERE-1BCC29?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases/download/Spot-down-v1/Spot-down-v1.rar)
 
-[![download-stable](https://img.shields.io/badge/Download%20Most%20Stable%20Version%20HERE-2DD6C3?style=plastic)](https://example.com)
+[![download-stable](https://img.shields.io/badge/Download%20Most%20Stable%20Version%20HERE-2DD6C3?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases/download/Spot-down-v1/Spot-down-v1.rar)
 
 #### Other:
 
