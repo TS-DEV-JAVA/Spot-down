@@ -1,4 +1,4 @@
-/* ===== Reset & Base ===== */
+/* reset and base  */
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ body {
   overflow-x: hidden;
 }
 
-/* ===== Navigation ===== */
+/* navigation */
 nav {
   display: flex;
   justify-content: center;
@@ -57,7 +57,7 @@ nav a:hover {
   text-shadow: 0 0 10px #1db954;
 }
 
-/* ===== Main Container ===== */
+/* main container */
 main {
   padding: 3rem 2rem;
   animation: fadeIn 1.2s ease-in;
@@ -74,7 +74,7 @@ main {
   }
 }
 
-/* ===== Fancy Card Box (Glassmorphism) ===== */
+/* card */
 .card {
   background: rgba(0, 50, 0, 0.2);
   border: 1px solid rgba(30, 255, 120, 0.25);
@@ -102,7 +102,7 @@ main {
   }
 }
 
-/* ===== Buttons ===== */
+/* buttons */
 button {
   background-color: #1db954;
   color: #000;
@@ -122,7 +122,7 @@ button:hover {
   transform: translateY(-2px);
 }
 
-/* ===== FAKE CAPTCHA ===== */
+/* uhh dont ban me plz */
 .fake-captcha {
   margin: 3rem auto;
   max-width: 600px;
@@ -178,7 +178,7 @@ button:hover {
     text-shadow: 0 0 10px #1db954;
   }
 }
-/* ===== Disclaimer Text Box ===== */
+/* disclaimer box */
 #disclaimerText {
   white-space: pre-wrap; /* preserve line breaks */
   background-color: #27F546; /* light gray background */
@@ -197,4 +197,5 @@ button:hover {
   margin-left: auto;
   margin-right: auto;
 }
+
 
