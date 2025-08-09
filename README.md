@@ -58,7 +58,7 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 
 [![other-releases](https://img.shields.io/badge/Other%20Releases-391791?style=plastic)](https://example.com)
 
-[![cli-build](https://img.shields.io/badge/Download%20CLI%20Version%20HERE-FFD000?style=plastic)](https://example.com)
+[![cli-build](https://img.shields.io/badge/Download%20CLI%20Version%20HERE-FFD000?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases/download/cli-v1/spot-down-cli.exe)
 
 [![nightly-builds](https://img.shields.io/badge/Nightly%20Builds-FFD605?style=plastic)](https://example.com)
 
