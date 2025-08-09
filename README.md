@@ -55,19 +55,19 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 
 #### Other:
 
-[![other-releases](https://img.shields.io/badge/Other%20Releases-391791?style=plastic)](https://example.com)
+[![other-releases](https://img.shields.io/badge/Other%20Releases-391791?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases)
 
 [![cli-build](https://img.shields.io/badge/Download%20CLI%20Version%20HERE-FFD000?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases/download/cli-v1/spot-down-cli.exe)
 
-[![nightly-builds](https://img.shields.io/badge/Nightly%20Builds-FFD605?style=plastic)](https://example.com)
+[![nightly-builds](https://img.shields.io/badge/Nightly%20Builds-FFD605?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases)
 
-[![NON-Stable-builds](https://img.shields.io/badge/NON%20Stable%20Builds-D10F0F?style=plastic)](https://example.com)
+[![NON-Stable-builds](https://img.shields.io/badge/NON%20Stable%20Builds-D10F0F?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases)
 
 ##  Socials:
 
-[![discord](https://img.shields.io/badge/join-discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.gg/idk)
+[![discord](https://img.shields.io/badge/join-discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.gg/gRWYD8f8Fh)
 
-[![yt](https://img.shields.io/badge/Youtube-Channel-ED1A1A?style=plastic&logo=youtube&logoColor=white)](https://youtube.com/)
+[![yt](https://img.shields.io/badge/Youtube-Channel-ED1A1A?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@TS-DEV-PYTHON)
 
 ## Website
 [![webssite](https://img.shields.io/badge/Website%20Here-3D8FFF?style=plastic)](https://ts-dev-java.github.io/Spot-down/website/)
