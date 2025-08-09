@@ -30,11 +30,6 @@
 Spot-down takes a spotify URL or search, makes it a youtube music link, then downloads it with yt-dlp, (streaming is still beta, it useses youtube, but the download still uses youtube music)
 Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on abandoning this project ANY time soon !!
 
-## Notes
--  You can get the cli version of ONLY the downloader, from here:
-
-[![download-cli-only](https://img.shields.io/badge/Download%20CLI%20Version%20HERE-FFD000?style=plastic)](https://example.com)
-
 ## Spot-down Pros
 - Not a skid of SpotDL
 - Not a copy of it eaither
@@ -62,6 +57,8 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 #### Other:
 
 [![other-releases](https://img.shields.io/badge/Other%20Releases-391791?style=plastic)](https://example.com)
+
+[![cli-build](https://img.shields.io/badge/Download%20CLI%20Version%20HERE-FFD000?style=plastic)](https://example.com)
 
 [![nightly-builds](https://img.shields.io/badge/Nightly%20Builds-FFD605?style=plastic)](https://example.com)
 
