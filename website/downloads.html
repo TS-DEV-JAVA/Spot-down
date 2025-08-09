@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Spot-Down – Downloads</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <nav>
+    <a href="index.html">About</a>
+    <a href="downloads.html">Downloads</a>
+    <a href="docs.html">Docs</a>
+    <a href="disclaimer.html">Disclaimer</a>
+    <a href="https://github.com/TS-DEV-JAVA/Spot-down/">Github</a>
+  </nav>
+  <main id="content">
+    Loading downloads...
+  </main>
+
+  <script>
+    const markdownUrl = 'downloads.md'; // your Markdown file URL
+
+    async function loadMarkdown() {
+      try {
+        const response = await fetch(markdownUrl);
+        if (!response.ok) throw new Error('Failed to load markdown');
+        const mdText = await response.text();
+        document.getElementById('content').innerHTML = marked.parse(mdText);
+      } catch (error) {
+        document.getElementById('content').textContent = 'Failed to load content.';
+        console.error(error);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadMarkdown);
+  </script>
+</body>
+</html>
