@@ -59,3 +59,10 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 
 [![NON-Stable-builds](https://img.shields.io/badge/NON%20Stable%20Builds-D10F0F?style=plastic)](https://example.com)
 
+##  Socials:
+
+[![discord](https://img.shields.io/badge/join-discord-5865F2?style=plastic&logo=discord&logoColor=white)
+
+[![yt](https://img.shields.io/badge/Youtube-Channel-ED1A1A?style=plastic&logo=youtube&logoColor=white)
+
+## Website
