@@ -28,3 +28,18 @@
 
 ### Spot-down, how it works
 Spot-down takes a spotify URL or search, makes it a youtube music link, then downloads it with yt-dlp, (streaming is still beta, it useses youtube, but the download still uses youtube music)
+
+## Spot-down Features
+- Not a skid of SpotDL
+- Not a copy of it eaither
+- can download at 1300kb bitrate, flac, etc.
+- Can strean at very high quilty (built in player for streaming and playing music you already downloaded)
+- Clean TUI with rich
+- Very fast when downloading (unlike spotdl because its always rate limited)
+- You can EASILY change the spotify client id and secret
+- Supports high qulity meta data including cover art, tho not avalible for some formats like wav and opus
+- Easy to use, no cli just TUI, cli is the backend
+- open src, anyone can do anything they want with it, but stay on license
+- Built in audio compressor (optional to use)
+
+## Downloads
