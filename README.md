@@ -22,12 +22,13 @@
 [![Top Language](https://img.shields.io/github/languages/top/ts-dev-java/Spot-down?style=plastic&color=informational&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down)
 [![Stars Today](https://img.shields.io/github/stars/ts-dev-java/Spot-down?style=plastic&color=brightgreen&logo=github&logoColor=white&label=stars%20today)](https://github.com/ts-dev-java/Spot-down/stargazers)
 
-## Demo
+## Demo:
 ![demo-of-tool](https://files.catbox.moe/j4ofsx.png)
 
 
 ### Spot-down, how it works
 Spot-down takes a spotify URL or search, makes it a youtube music link, then downloads it with yt-dlp, (streaming is still beta, it useses youtube, but the download still uses youtube music)
+Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on abandoning this project ANY time soon !!
 
 ## Spot-down Features
 - Not a skid of SpotDL
@@ -43,6 +44,7 @@ Spot-down takes a spotify URL or search, makes it a youtube music link, then dow
 - Built in audio compressor (optional to use)
 
 ## Downloads
+
 #### Recomended:
 
 [![download](https://img.shields.io/badge/Download%20Latest%20Version%20HERE-1BCC29?style=plastic)](https://example.com)
