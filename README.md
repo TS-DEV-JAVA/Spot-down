@@ -21,7 +21,6 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/ts-dev-java/Spot-down?style=plastic&color=blueviolet&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down)
 [![Top Language](https://img.shields.io/github/languages/top/ts-dev-java/Spot-down?style=plastic&color=informational&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down)
 [![Stars Today](https://img.shields.io/github/stars/ts-dev-java/Spot-down?style=plastic&color=brightgreen&logo=github&logoColor=white&label=stars%20today)](https://github.com/ts-dev-java/Spot-down/stargazers)
-[![Branches](https://img.shields.io/github/branches/ts-dev-java/Spot-down?style=plastic&color=blueviolet&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/branches)
 
 
 ### Spot-down, how it works
