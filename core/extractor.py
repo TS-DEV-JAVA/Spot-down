@@ -3,7 +3,7 @@ import sys
 import subprocess
 from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy
-import youtube_scrape  # import our scraper module
+import youtube_scrape  # import custom module
 
 SPOTIFY_CLIENT_ID = "c08a57aa02c44831937550169d549d79"
 SPOTIFY_CLIENT_SECRET = "bba2736cde3140049a66c1348454aeaf"
