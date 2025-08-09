@@ -23,11 +23,7 @@
 [![Stars Today](https://img.shields.io/github/stars/ts-dev-java/Spot-down?style=plastic&color=brightgreen&logo=github&logoColor=white&label=stars%20today)](https://github.com/ts-dev-java/Spot-down/stargazers)
 
 ## Demo:
-![demo-of-tool](https://files.catbox.moe/j4ofsx.png)
-![downloading-a-track](https://files.catbox.moe/i358ac.png)
-![track-is-their](https://files.catbox.moe/0h52j2.png)
-![playing-the-track](https://files.catbox.moe/9vygid.png)
-
+![demo-of-tool](https://files.catbox.moe/ogcgso.gif)
 
 ### Spot-down, how it works
 Spot-down takes a spotify URL or search, makes it a youtube music link, then downloads it with yt-dlp, (streaming is still beta, it useses youtube, but the download still uses youtube music)
