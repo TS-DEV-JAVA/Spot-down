@@ -71,3 +71,8 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 
 ## Website
 [![webssite](https://img.shields.io/badge/Website%20Here-3D8FFF?style=plastic)](https://ts-dev-java.github.io/Spot-down/website/)
+
+## How to use
+```text
+idk
+```
