@@ -74,5 +74,24 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 
 ## How to use
 ```text
-idk
+for cli usage:
+spot-down-cli {URL} --format=FORMAT --good-meta -----> embeds meta data such as artist cover art etc.
+-h to show help message
 ```
+## How to use TUI
+- Run start.cmd 
+- Pick an option, you can do: download from url, search and download, search and stream, stream from url, etc
+- follow the steps, done, you are now streaming or ripping from spotify.
+
+## Requirments 
+- [**ffmpeg**] in system PATH
+- and run `install-needs.bat`
+
+## Notes
+- Dont complain aboutt search stream, or stream from url, streaming is still beta right now.
+- Do not skid by core, its cli, you can, dont
+- this is Pureley for educational purposes.
+
+## Tutorial
+![tuto_l9ing]
+
