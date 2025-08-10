@@ -3,7 +3,7 @@
 ![Banner](https://files.catbox.moe/xl3d4c.png)
 
 ![Spot-down](https://img.shields.io/badge/Spot-down-Green?style=plastic)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/ts-dev-java/Spot-down/main.yml?branch=main&style=for-the-badge&color=brightgreen&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/ts-dev-java/Spot-down/main.yml?branch=main&style=plastic&color=brightgreen&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/actions)
 [![License](https://img.shields.io/github/license/ts-dev-java/Spot-down?style=plastic&color=blue&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ts-dev-java/Spot-down?style=plastic&color=yellow&logo=github&logoColor=black)](https://github.com/ts-dev-java/Spot-down/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ts-dev-java/Spot-down?style=plastic&color=orange&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/network/members)
