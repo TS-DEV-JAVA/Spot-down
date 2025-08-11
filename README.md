@@ -93,5 +93,26 @@ spot-down-cli {URL} --format=FORMAT --good-meta -----> embeds meta data such as 
 - this is Pureley for educational purposes.
 
 ## Tutorial
-![tuto_l9ing]
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stars ⭐</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Repo A</td>
+      <td>120</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>Repo B</td>
+      <td>95</td>
+      <td>JavaScript</td>
+    </tr>
+  </tbody>
+</table>
+
 
