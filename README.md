@@ -46,22 +46,51 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 - Streaming is bugy, but works  (i am working on a fix)
 
 ## Downloads
+<table>
+  <tr>
+    <th>Version</th>
+    <th>Date</th>
+    <th>Platform</th>
+    <th>Download</th>
+  </tr>
 
-#### Recomended:
+  <tr>
+    <td><strong>Latest</strong> (v2.3.1)</td>
+    <td>2025-08-11</td>
+    <td>Windows</td>
+    <td>
+      <a href="https://github.com/YourRepo/releases/latest/download/YourApp.exe">
+        <img src="https://img.shields.io/badge/Download-Windows-blue?style=plastic" alt="Download for Windows">
+      </a>
+    </td>
+  </tr>
 
-[![download](https://img.shields.io/badge/Download%20Latest%20Version%20HERE-1BCC29?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases/download/Spot-down-v1/Spot-down-v1.rar)
+  <tr>
+    <td>v2.3.0</td>
+    <td>2025-07-22</td>
+    <td>Windows</td>
+    <td>
+      <a href="https://github.com/YourRepo/releases/download/v2.3.0/YourApp.exe">
+        <img src="https://img.shields.io/badge/Download-Windows-blue?style=plastic" alt="Download for Windows">
+      </a>
+    </td>
+  </tr>
 
-[![download-stable](https://img.shields.io/badge/Download%20Most%20Stable%20Version%20HERE-2DD6C3?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases/download/Spot-down-v1/Spot-down-v1.rar)
-
-#### Other:
-
-[![other-releases](https://img.shields.io/badge/Other%20Releases-391791?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases)
-
-[![cli-build](https://img.shields.io/badge/Download%20CLI%20Version%20HERE-FFD000?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases/download/cli-v1/spot-down-cli.exe)
-
-[![nightly-builds](https://img.shields.io/badge/Nightly%20Builds-FFD605?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases)
-
-[![NON-Stable-builds](https://img.shields.io/badge/NON%20Stable%20Builds-D10F0F?style=plastic)](https://github.com/TS-DEV-JAVA/Spot-down/releases)
+  <tr>
+    <td>v2.2.5</td>
+    <td>2025-06-10</td>
+    <td>Windows / Mac</td>
+    <td>
+      <a href="https://github.com/YourRepo/releases/download/v2.2.5/YourApp-Windows.exe">
+        <img src="https://img.shields.io/badge/Download-Windows-blue?style=plastic" alt="Windows Download">
+      </a>
+      <br>
+      <a href="https://github.com/YourRepo/releases/download/v2.2.5/YourApp-Mac.dmg">
+        <img src="https://img.shields.io/badge/Download-Mac-lightgrey?style=plastic" alt="Mac Download">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ##  Socials:
 
@@ -91,38 +120,5 @@ spot-down-cli {URL} --format=FORMAT --good-meta -----> embeds meta data such as 
 - Dont complain aboutt search stream, or stream from url, streaming is still beta right now.
 - Do not skid by core, its cli, you can, dont
 - this is Pureley for educational purposes.
-
-## Tutorial
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Downloads</th>
-    <th>Icons</th>
-  </tr>
-  <tr>
-    <td>App A</td>
-    <td>
-      <a href="https://example.com/download">
-        <img src="https://img.shields.io/badge/downloads-2k-blue?style=plastic" alt="Downloads">
-      </a>
-    </td>
-    <td>
-      <img src="https://files.catbox.moe/g85aid.png" alt="Icon1"><br>
-      <img src="https://via.placeholder.com/40" alt="Icon2">
-    </td>
-  </tr>
-  <tr>
-    <td>App B</td>
-    <td>
-      <a href="https://example.com/download">
-        <img src="https://img.shields.io/badge/downloads-500-green?style=plastic" alt="Downloads">
-      </a>
-    </td>
-    <td>
-      <img src="https://via.placeholder.com/40" alt="Icon3"><br>
-      <img src="https://via.placeholder.com/40" alt="Icon4">
-    </td>
-  </tr>
-</table>
 
 
