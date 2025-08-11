@@ -93,9 +93,36 @@ spot-down-cli {URL} --format=FORMAT --good-meta -----> embeds meta data such as 
 - this is Pureley for educational purposes.
 
 ## Tutorial
-| Project | Downloads | Icons |
-|---------|-----------|-------|
-| App A   | ![Downloads](https://img.shields.io/badge/downloads-2k-blue?style=plastic) | ![Icon1](https://via.placeholder.com/40)<br>![Icon2](https://via.placeholder.com/40) |
-| App B   | ![Downloads](https://img.shields.io/badge/downloads-500-green?style=plastic) | ![Icon3](https://via.placeholder.com/40)<br>![Icon4](https://via.placeholder.com/40) |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Downloads</th>
+    <th>Icons</th>
+  </tr>
+  <tr>
+    <td>App A</td>
+    <td>
+      <a href="https://example.com/download">
+        <img src="https://img.shields.io/badge/downloads-2k-blue?style=plastic" alt="Downloads">
+      </a>
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/40" alt="Icon1"><br>
+      <img src="https://via.placeholder.com/40" alt="Icon2">
+    </td>
+  </tr>
+  <tr>
+    <td>App B</td>
+    <td>
+      <a href="https://example.com/download">
+        <img src="https://img.shields.io/badge/downloads-500-green?style=plastic" alt="Downloads">
+      </a>
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/40" alt="Icon3"><br>
+      <img src="https://via.placeholder.com/40" alt="Icon4">
+    </td>
+  </tr>
+</table>
 
 
