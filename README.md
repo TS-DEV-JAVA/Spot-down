@@ -93,26 +93,9 @@ spot-down-cli {URL} --format=FORMAT --good-meta -----> embeds meta data such as 
 - this is Pureley for educational purposes.
 
 ## Tutorial
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Stars ⭐</th>
-      <th>Language</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Repo A</td>
-      <td>120</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td>Repo B</td>
-      <td>95</td>
-      <td>JavaScript</td>
-    </tr>
-  </tbody>
-</table>
+| Project | Downloads | Icons |
+|---------|-----------|-------|
+| App A   | ![Downloads](https://img.shields.io/badge/downloads-2k-blue?style=plastic) | ![Icon1](https://via.placeholder.com/40)<br>![Icon2](https://via.placeholder.com/40) |
+| App B   | ![Downloads](https://img.shields.io/badge/downloads-500-green?style=plastic) | ![Icon3](https://via.placeholder.com/40)<br>![Icon4](https://via.placeholder.com/40) |
 
 
