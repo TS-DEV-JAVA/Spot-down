@@ -82,7 +82,7 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
     <td>Windows / Mac</td>
     <td>
       <a href="https://github.com/YourRepo/releases/download/v2.2.5/YourApp-Windows.exe">
-        <img src="https://img.shields.io/badge/Download-Windows-blue?style=plastic" alt="Windows Download">
+        <img src="https://img.shields.io/badge/Download_For-Windows-1000FF?style=plastic" alt="Download For Windows">
       </a>
       <br>
       <a href="https://github.com/YourRepo/releases/download/v2.2.5/YourApp-Mac.dmg">
