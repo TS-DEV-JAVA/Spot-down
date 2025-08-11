@@ -107,7 +107,7 @@ spot-down-cli {URL} --format=FORMAT --good-meta -----> embeds meta data such as 
       </a>
     </td>
     <td>
-      <img src="https://camo.githubusercontent.com/6bf02432d98ea393d5be58ad2a71386a0bd2f8cc2edb9b2ebaa26ba5afe896d7/68747470733a2f2f66696c65732e636174626f782e6d6f652f786c336434632e706e67" alt="Icon1"><br>
+      <img src="https://files.catbox.moe/g85aid.png" alt="Icon1"><br>
       <img src="https://via.placeholder.com/40" alt="Icon2">
     </td>
   </tr>
