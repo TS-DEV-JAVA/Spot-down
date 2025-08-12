@@ -121,5 +121,8 @@ spot-down-cli: error: the following arguments are required: url
 - Dont complain about search stream, or stream from url, streaming is still beta right now.
 - Do not skid my core, its cli, you can, dont
 - this is Pureley for educational purposes.
-
+## Spoilers
+- Music Video downloader comming soon !
+- other fixes
+- fixing streamiing.
 
