@@ -104,8 +104,9 @@ Spot-down is currenly V1, stay tuned for more and more updates, i dont plan on a
 ## How to use
 ```text
 for cli usage:
-spot-down-cli {URL} --format=FORMAT --good-meta -----> embeds meta data such as artist cover art etc.
--h to show help message
+usage: spot-down-cli [-h] [--format FORMAT] [--good-meta] [-o OUTPUT] url
+spot-down-cli: error: the following arguments are required: url
+--good-meta embeds metadata such as cover art artist etc, --formatformat flac, mp3, opus, wav, m4a -o outputs in a folder
 ```
 ## How to use TUI
 - Run start.cmd 
@@ -117,8 +118,8 @@ spot-down-cli {URL} --format=FORMAT --good-meta -----> embeds meta data such as 
 - and run `install-needs.bat`
 
 ## Notes
-- Dont complain aboutt search stream, or stream from url, streaming is still beta right now.
-- Do not skid by core, its cli, you can, dont
+- Dont complain about search stream, or stream from url, streaming is still beta right now.
+- Do not skid my core, its cli, you can, dont
 - this is Pureley for educational purposes.
 
 
