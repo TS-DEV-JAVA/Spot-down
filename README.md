@@ -126,10 +126,45 @@ spot-down-cli: error: the following arguments are required: url
 - other fixes
 - fixing streamiing.
 ## Code
-| Language   | Files | Blank Lines | Comment Lines | Code Lines |
-|------------|-------|-------------|---------------|------------|
-| Python     | 22    | 542         | 185           | 2402       |
-| DOS Batch  | 2     | 3           | 4             | 37         |
-| JSON       | 2     | 0           | 0             | 12         |
-| **Total**  | 26    | 545         | 189           | 2451       |
+<table>
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Files</th>
+      <th>Blank Lines</th>
+      <th>Comment Lines</th>
+      <th>Code Lines</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+      <td>22</td>
+      <td>542</td>
+      <td>185</td>
+      <td>2402</td>
+    </tr>
+    <tr>
+      <td>DOS Batch</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>37</td>
+    </tr>
+    <tr>
+      <td>JSON</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td>26</td>
+      <td>545</td>
+      <td>189</td>
+      <td>2451</td>
+    </tr>
+  </tbody>
+</table>
 
