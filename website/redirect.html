@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Spotify Auth Code</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 50px;
+    }
+    input {
+        padding: 8px;
+        font-size: 14px;
+        width: 80%;
+    }
+    button {
+        margin-top: 10px;
+        padding: 8px 12px;
+        font-size: 14px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+<h1>Spotify Authorization Code</h1>
+<p>Copy this code and paste it back into your downloader:</p>
+<input id="codeBox" readonly>
+<br>
+<button onclick="copyCode()">Copy</button>
+
+<script>
+function getCodeFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get("code") || "No code found in URL!";
+}
+function copyCode() {
+    const box = document.getElementById("codeBox");
+    box.select();
+    box.setSelectionRange(0, 99999);
+    document.execCommand("copy");
+    alert("Code copied to clipboard!");
+}
+document.getElementById("codeBox").value = getCodeFromURL();
+</script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Spotify Auth Code</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 50px;
+    }
+    input {
+        padding: 8px;
+        font-size: 14px;
+        width: 80%;
+    }
+    button {
+        margin-top: 10px;
+        padding: 8px 12px;
+        font-size: 14px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+<h1>Spotify Authorization Code</h1>
+<p>Copy this code and paste it back into your downloader:</p>
+<input id="codeBox" readonly>
+<br>
+<button onclick="copyCode()">Copy</button>
+
+<script>
+function getCodeFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get("code") || "No code found in URL!";
+}
+function copyCode() {
+    const box = document.getElementById("codeBox");
+    box.select();
+    box.setSelectionRange(0, 99999);
+    document.execCommand("copy");
+    alert("Code copied to clipboard!");
+}
+document.getElementById("codeBox").value = getCodeFromURL();
+</script>
+</body>
+</html>
