@@ -126,30 +126,31 @@ spot-down-cli: error: the following arguments are required: url
 - other fixes
 - fixing streamiing.
 ## Code
+<!-- Code Statistics Table -->
 <table>
   <thead>
     <tr>
       <th>Language</th>
       <th>Files</th>
-      <th>Blank Lines</th>
-      <th>Comment Lines</th>
-      <th>Code Lines</th>
+      <th>Blank</th>
+      <th>Comment</th>
+      <th>Code</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Python</td>
-      <td>22</td>
-      <td>542</td>
-      <td>185</td>
-      <td>2402</td>
+      <td>23</td>
+      <td>588</td>
+      <td>199</td>
+      <td>2653</td>
     </tr>
     <tr>
       <td>DOS Batch</td>
       <td>2</td>
       <td>3</td>
       <td>4</td>
-      <td>37</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>JSON</td>
@@ -159,12 +160,35 @@ spot-down-cli: error: the following arguments are required: url
       <td>12</td>
     </tr>
     <tr>
-      <td><strong>Total</strong></td>
-      <td>26</td>
-      <td>545</td>
-      <td>189</td>
-      <td>2451</td>
+      <td><strong>SUM</strong></td>
+      <td>27</td>
+      <td>591</td>
+      <td>203</td>
+      <td>2703</td>
     </tr>
   </tbody>
 </table>
 
+<!-- Script Counts Table -->
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Scripts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Batch</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>Other</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
