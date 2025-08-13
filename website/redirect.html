@@ -1,32 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+<meta charset="UTF-8">
 <title>Spotify Auth Code</title>
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
     body {
-        font-family: Arial, sans-serif;
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: linear-gradient(-45deg, #1DB954, #121212, #191414, #1ed760);
+        background-size: 400% 400%;
+        animation: gradientBG 10s ease infinite;
+        color: white;
+    }
+    @keyframes gradientBG {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+    .card {
+        background: rgba(0,0,0,0.8);
+        border-radius: 20px;
+        padding: 30px;
         text-align: center;
-        margin-top: 50px;
+        box-shadow: 0 0 30px rgba(0,0,0,0.5);
+        animation: fadeIn 1s ease forwards;
+        transform: translateY(30px);
+        opacity: 0;
+    }
+    @keyframes fadeIn {
+        to { transform: translateY(0); opacity: 1; }
+    }
+    h1 {
+        margin-bottom: 10px;
+        font-weight: 700;
+    }
+    p {
+        margin-bottom: 20px;
+        opacity: 0.8;
     }
     input {
-        padding: 8px;
-        font-size: 14px;
+        padding: 12px;
+        font-size: 16px;
         width: 80%;
+        border: none;
+        border-radius: 8px;
+        text-align: center;
+        background-color: rgba(255,255,255,0.1);
+        color: white;
+        transition: background 0.3s ease;
+    }
+    input:focus {
+        background-color: rgba(255,255,255,0.2);
+        outline: none;
     }
     button {
-        margin-top: 10px;
-        padding: 8px 12px;
-        font-size: 14px;
+        margin-top: 15px;
+        padding: 12px 24px;
+        font-size: 16px;
+        font-weight: bold;
+        color: white;
+        background: linear-gradient(90deg, #1db954, #1ed760);
+        border: none;
+        border-radius: 25px;
         cursor: pointer;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    button:hover {
+        transform: scale(1.05);
+        box-shadow: 0 0 15px rgba(30,215,96,0.6);
     }
 </style>
 </head>
 <body>
-<h1>Spotify Authorization Code</h1>
-<p>Copy this code and paste it back into your downloader:</p>
-<input id="codeBox" readonly>
-<br>
-<button onclick="copyCode()">Copy</button>
+    <div class="card">
+        <h1>Spotify Authorization Code</h1>
+        <p>Copy this code and paste it into your downloader:</p>
+        <input id="codeBox" readonly>
+        <br>
+        <button onclick="copyCode()">Copy Code</button>
+    </div>
 
 <script>
 function getCodeFromURL() {
@@ -38,53 +96,14 @@ function copyCode() {
     box.select();
     box.setSelectionRange(0, 99999);
     document.execCommand("copy");
-    alert("Code copied to clipboard!");
-}
-document.getElementById("codeBox").value = getCodeFromURL();
-</script>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
-<title>Spotify Auth Code</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        text-align: center;
-        margin-top: 50px;
-    }
-    input {
-        padding: 8px;
-        font-size: 14px;
-        width: 80%;
-    }
-    button {
-        margin-top: 10px;
-        padding: 8px 12px;
-        font-size: 14px;
-        cursor: pointer;
-    }
-</style>
-</head>
-<body>
-<h1>Spotify Authorization Code</h1>
-<p>Copy this code and paste it back into your downloader:</p>
-<input id="codeBox" readonly>
-<br>
-<button onclick="copyCode()">Copy</button>
 
-<script>
-function getCodeFromURL() {
-    const params = new URLSearchParams(window.location.search);
-    return params.get("code") || "No code found in URL!";
-}
-function copyCode() {
-    const box = document.getElementById("codeBox");
-    box.select();
-    box.setSelectionRange(0, 99999);
-    document.execCommand("copy");
-    alert("Code copied to clipboard!");
+    let btn = event.target;
+    btn.textContent = "Copied!";
+    btn.style.background = "linear-gradient(90deg, #00c853, #b2ff59)";
+    setTimeout(() => {
+        btn.textContent = "Copy Code";
+        btn.style.background = "linear-gradient(90deg, #1db954, #1ed760)";
+    }, 1500);
 }
 document.getElementById("codeBox").value = getCodeFromURL();
 </script>
