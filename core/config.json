@@ -1,6 +1,0 @@
-{
-  "format": "flac",
-  "bitrate": "320k",
-  "output": "downloads",
-  "overwrite": "skip"
-}
