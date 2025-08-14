@@ -4,8 +4,6 @@
   <meta charset="UTF-8" />
   <title>Spot-Down – Docs</title>
   <link rel="stylesheet" href="style.css" />
-  <!-- Load Marked.js from CDN -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
   <nav>
@@ -16,27 +14,21 @@
     <a href="https://github.com/TS-DEV-JAVA/Spot-down/">Github</a>
   </nav>
   <main id="content">
-    Loading documentation...
+    <h1>Documentation</h1>
+    <h2>Installation</h2>
+    <p>Download the correct version for your operating system from the <a href="downloads.html">Downloads</a> page.</p>
+    <p>Extract the files to your preferred location and run the executable.</p>
+
+    <h2>Usage</h2>
+    <ol>
+      <li>Open Spot-Down.</li>
+      <li>Log in to your Spotify account.</li>
+      <li>Select tracks, albums, or playlists to download.</li>
+      <li>Click "Download" to save them locally.</li>
+    </ol>
+
+    <h2>Support</h2>
+    <p>For help, visit our <a href="https://github.com/TS-DEV-JAVA/Spot-down/issues">GitHub Issues</a> page.</p>
   </main>
-
-  <script>
-    // URL of the Markdown file
-    const markdownUrl = 'https://raw.githubusercontent.com/TS-DEV-JAVA/Spot-down/refs/heads/main/README.md';
-
-    async function loadMarkdown() {
-      try {
-        const response = await fetch(markdownUrl);
-        if (!response.ok) throw new Error('Failed to load markdown file');
-        const text = await response.text();
-        // Render markdown into the main content area
-        document.getElementById('content').innerHTML = marked.parse(text);
-      } catch (error) {
-        document.getElementById('content').textContent = 'Error loading documentation.';
-        console.error(error);
-      }
-    }
-
-    document.addEventListener('DOMContentLoaded', loadMarkdown);
-  </script>
 </body>
 </html>
