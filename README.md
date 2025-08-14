@@ -1,6 +1,8 @@
 # Spot-down
 
-![Banner](https://files.catbox.moe/xl3d4c.png)
+![logo](https://files.catbox.moe/xl3d4c.png)
+
+![banner](https://files.catbox.moe/jjmdmu.png)
 
 ![Spot-down](https://img.shields.io/badge/Spot-down-Green?style=plastic)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/ts-dev-java/Spot-down/main.yml?branch=main&style=plastic&color=brightgreen&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/actions)
