@@ -193,7 +193,6 @@ spot-down-cli: error: the following arguments are required: url
     </tr>
   </tbody>
 </table>
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://files.catbox.moe/nztte4.png" alt="Banner" style="max-width: 100%; height: auto;">
-</div>
+
+![banner](https://files.catbox.moe/nztte4.png) 
 © TS-DEV-JAVA, Spot-down 2025 ©
