@@ -1,8 +1,6 @@
 # Spot-down
 
-![logo](https://files.catbox.moe/xl3d4c.png)
-
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+![logo](https://files.catbox.moe/xl3d4c.png) <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
   <img src="https://files.catbox.moe/nztte4.png" alt="Banner" style="max-width: 100%; height: auto;">
 </div>
 
