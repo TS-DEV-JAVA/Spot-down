@@ -2,6 +2,10 @@
 
 ![logo](https://files.catbox.moe/xl3d4c.png)
 
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="https://files.catbox.moe/nztte4.png" alt="Banner" style="max-width: 100%; height: auto;">
+</div>
+
 ![Spot-down](https://img.shields.io/badge/Spot-down-Green?style=plastic)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/ts-dev-java/Spot-down/main.yml?branch=main&style=plastic&color=brightgreen&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/actions)
 [![License](https://img.shields.io/github/license/ts-dev-java/Spot-down?style=plastic&color=blue&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/blob/main/LICENSE)
@@ -21,10 +25,6 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/ts-dev-java/Spot-down?style=plastic&color=blueviolet&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down)
 [![Top Language](https://img.shields.io/github/languages/top/ts-dev-java/Spot-down?style=plastic&color=informational&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down)
 [![Stars Today](https://img.shields.io/github/stars/ts-dev-java/Spot-down?style=plastic&color=brightgreen&logo=github&logoColor=white&label=stars%20today)](https://github.com/ts-dev-java/Spot-down/stargazers)
-
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://files.catbox.moe/nztte4.png" alt="Banner" style="max-width: 100%; height: auto;">
-</div>
 
 ## Demo:
 ![demo-of-tool](https://files.catbox.moe/ogcgso.gif)
