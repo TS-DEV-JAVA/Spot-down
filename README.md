@@ -1,8 +1,6 @@
 # Spot-down
 
-![logo](https://files.catbox.moe/xl3d4c.png) <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://files.catbox.moe/nztte4.png" alt="Banner" style="max-width: 100%; height: auto;">
-</div>
+![logo](https://files.catbox.moe/xl3d4c.png) 
 
 ![Spot-down](https://img.shields.io/badge/Spot-down-Green?style=plastic)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/ts-dev-java/Spot-down/main.yml?branch=main&style=plastic&color=brightgreen&logo=github&logoColor=white)](https://github.com/ts-dev-java/Spot-down/actions)
@@ -195,3 +193,7 @@ spot-down-cli: error: the following arguments are required: url
     </tr>
   </tbody>
 </table>
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="https://files.catbox.moe/nztte4.png" alt="Banner" style="max-width: 100%; height: auto;">
+</div>
+© TS-DEV-JAVA, Spot-down 2025 ©
