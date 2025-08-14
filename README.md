@@ -114,8 +114,9 @@ spot-down-cli: error: the following arguments are required: url
 - follow the steps, done, you are now streaming or ripping from spotify.
 
 ## Requirments 
-- [**ffmpeg**] in system PATH
-- and run `install-needs.bat`
+- Python 3.9 + 3.13.5 is recomended
+- Run `install-needs.bat`, it will install ffmpeg and some python packages
+- Internet
 
 ## Notes
 - Dont complain about search stream, or stream from url, streaming is still beta right now.
