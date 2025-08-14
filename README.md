@@ -23,7 +23,7 @@
 [![Stars Today](https://img.shields.io/github/stars/ts-dev-java/Spot-down?style=plastic&color=brightgreen&logo=github&logoColor=white&label=stars%20today)](https://github.com/ts-dev-java/Spot-down/stargazers)
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://files.catbox.moe/jjmdmu.png" alt="Banner" style="max-width: 100%; height: auto;">
+  <img src="https://files.catbox.moe/la4y5g.png" alt="Banner" style="max-width: 100%; height: auto;">
 </div>
 
 ## Demo:
