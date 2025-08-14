@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <title>Spot-Down – Downloads</title>
   <link rel="stylesheet" href="style.css" />
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
   <nav>
@@ -15,25 +14,41 @@
     <a href="https://github.com/TS-DEV-JAVA/Spot-down/">Github</a>
   </nav>
   <main id="content">
-    Loading downloads...
+    <h1>Downloads</h1>
+    <p>Choose the latest version for your platform:</p>
+    <ul>
+      <li><a href="downloads/spotdown-windows.zip">Windows</a></li>
+      <li><a href="downloads/spotdown-mac.zip">macOS</a></li>
+      <li><a href="downloads/spotdown-linux.tar.gz">Linux</a></li>
+    </ul>
+    <p>Check the <a href="docs.html">Docs</a> for installation and usage instructions.</p>
   </main>
-
-  <script>
-    const markdownUrl = 'downloads.md'; // your Markdown file URL
-
-    async function loadMarkdown() {
-      try {
-        const response = await fetch(markdownUrl);
-        if (!response.ok) throw new Error('Failed to load markdown');
-        const mdText = await response.text();
-        document.getElementById('content').innerHTML = marked.parse(mdText);
-      } catch (error) {
-        document.getElementById('content').textContent = 'Failed to load content.';
-        console.error(error);
-      }
-    }
-
-    document.addEventListener('DOMContentLoaded', loadMarkdown);
-  </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Spot-Down – Downloads</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">About</a>
+    <a href="downloads.html">Downloads</a>
+    <a href="docs.html">Docs</a>
+    <a href="disclaimer.html">Disclaimer</a>
+    <a href="https://github.com/TS-DEV-JAVA/Spot-down/">Github</a>
+  </nav>
+  <main id="content">
+    <h1>Downloads</h1>
+    <p>Choose the latest version for your platform:</p>
+    <ul>
+      <li><a href="downloads/spotdown-windows.zip">Windows</a></li>
+      <li><a href="downloads/spotdown-mac.zip">macOS</a></li>
+      <li><a href="downloads/spotdown-linux.tar.gz">Linux</a></li>
+    </ul>
+    <p>Check the <a href="docs.html">Docs</a> for installation and usage instructions.</p>
+  </main>
 </body>
 </html>
