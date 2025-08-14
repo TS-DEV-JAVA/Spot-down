@@ -2,7 +2,7 @@
 
 ![logo](https://files.catbox.moe/xl3d4c.png)
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://files.catbox.moe/jjmdmu.png" alt="Banner" style="max-width: 100%; height: auto;">
+  <img src="https://files.catbox.moe/xl3d4c.png" alt="Banner" style="max-width: 100%; height: auto;">
 </div>
 
 ![Spot-down](https://img.shields.io/badge/Spot-down-Green?style=plastic)
