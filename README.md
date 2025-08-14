@@ -193,7 +193,6 @@ spot-down-cli: error: the following arguments are required: url
     </tr>
   </tbody>
 </table>
-
 ![banner](https://files.catbox.moe/nztte4.png) 
 
-   © TS-DEV-JAVA, Spot-down 2025 ©
+© TS-DEV-JAVA, Spot-down 2025 ©
