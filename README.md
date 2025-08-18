@@ -112,6 +112,50 @@ spot-down-cli: error: the following arguments are required: url
 - Run start.cmd 
 - Pick an option, you can do: download from url, search and download, search and stream, stream from url, etc
 - follow the steps, done, you are now streaming or ripping from spotify.
+- after you run it, it will look somthing like this:
+```text
+                       ██████  ██▓███   ▒█████  ▄▄▄█████▓▓█████▄  ▒█████   █     █░███▄    █
+                      ▒██    ▒ ▓██░  ██▒▒██▒  ██▒▓  ██▒ ▓▒▒██▀ ██▌▒██▒  ██▒▓█░ █ ░█░██ ▀█   █
+                      ░ ▓██▄   ▓██░ ██▓▒▒██░  ██▒▒ ▓██░ ▒░░██   █▌▒██░  ██▒▒█░ █ ░█▓██  ▀█ ██▒
+                        ▒   ██▒▒██▄█▓▒ ▒▒██   ██░░ ▓██▓ ░ ░▓█▄   ▌▒██   ██░░█░ █ ░█▓██▒  ▐▌██▒
+                      ▒██████▒▒▒██▒ ░  ░░ ████▓▒░  ▒██▒ ░ ░▒████▓ ░ ████▓▒░░░██▒██▓▒██░   ▓██░
+                      ▒ ▒▓▒ ▒ ░▒▓▒░ ░  ░░ ▒░▒░▒░   ▒ ░░    ▒▒▓  ▒ ░ ▒░▒░▒░ ░ ▓░▒ ▒ ░ ▒░   ▒ ▒
+                      ░ ░▒  ░ ░░▒░       ░ ▒ ▒░     ░     ░ ▒  ▒   ░ ▒ ▒░   ▒ ░ ░ ░ ░░   ░ ▒░
+                      ░  ░  ░  ░░       ░ ░ ░ ▒    ░       ░ ░  ░ ░ ░ ░ ▒    ░   ░    ░   ░ ░
+                            ░               ░ ░              ░        ░ ░      ░            ░
+
+                                       Spot-Down -- Best Spotify Downloader
+
+    Spot-down Config
+┏━━━━━━━━━┳━━━━━━━━━┓
+┃ Setting ┃ Value   ┃
+┡━━━━━━━━━╇━━━━━━━━━┩
+│format   │ flac    │
+│bitrate  │ 1453 kb │
+│output   │ download│
+│overwrite│ skip    │
+└─────────┴─────────┘
+
+[Menu]
+↓↓
+1. Download from Spotify Track URL
+2. Download from Spotify Album URL
+3. Download from Spotify Playlist URL
+4. Download music video from Spotify Track URL
+5. Stream from Spotify Track URL
+6. Search & Download Track
+7. Search & Download Playlist
+8. Search & Download Album
+9. Search & Download music video
+10. Search & Stream Track
+11. Download Liked Songs
+12. Play downloaded Tracks
+13. View Metadata
+14. Configure Settings
+15. Exit
+
+Select an option [1/2/3/4/5/6/7/8/9/10/11/12/13/14/15]:
+```
 
 ## Requirments 
 - Python 3.9 + 3.13.5 is recomended
